@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy <a href="https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/">Bastián Salvo</a> 👋</h1>
-  <p><strong>Ingeniero en Ejecución en Computación e Informática | USACH 🎓</strong></p>
+  <p><strong>Ingeniero en Ejecución en Computación e Informática | Virginio Gomez 🎓</strong></p>
 </div>
 
 <img src="https://altair.com.es/images/default-source/content-images/trends_cloud_computing_header_interior_desktop-jpg.jpg?sfvrsn=c83ff9b0_0" alt="Banner Git" width="100%">
@@ -11,7 +11,6 @@
 
 * 🇨🇱 **Ingeniero Informático** apasionado por la infraestructura y la seguridad.
 * 🔐 Enfocado en **Ciberseguridad**, Cloud Computing (AWS) y Desarrollo **Backend**.
-* 🚀 Actualmente desarrollando una **aplicación móvil para gestión de pedidos** (Stack: React Native/Node.js).
 * 📊 Experiencia en análisis de datos con **Power BI** y gestión de servidores **Linux**.
 * ⚡ Comprometido con la excelencia técnica y la resolución de problemas complejos.
 
@@ -34,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGithub&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b-anoninus&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
