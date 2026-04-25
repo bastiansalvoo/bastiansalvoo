@@ -63,6 +63,6 @@
 
 ### 🤝 Contacto
 
-* [cite_start]📧 **Email:** [bastiansalvosepulveda@gmail.com](mailto:bastiansalvosepulveda@gmail.com) [cite: 1]
-* [cite_start]💼 **LinkedIn:** [Bastián Salvo Sepúlveda](https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/) [cite: 4]
-* [cite_start]📍 Laja, Región del Biobío, Chile 🇨🇱 [cite: 3]
+* 📧 **Email:** [bastiansalvosepulveda@gmail.com](mailto:bastiansalvosepulveda@gmail.com)
+* 💼 **LinkedIn:** [Bastián Salvo Sepúlveda](https://www.linkedin.com/in/bastian-salvo-sepulveda-a30b9126b/) 
+* 📍 Laja, Región del Biobío, Chile 🇨🇱 
