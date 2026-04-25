@@ -20,7 +20,7 @@
 
 * 👨‍💻 **Software Developer** en **Pacifik SpA** (Importadora y Exportadora Durban).
 * 🚀 Especializado en desarrollo **Backend** con Laravel y automatización mediante **Web Scraping**.
-* 📊 Experto en **Análisis de Datos** (Power BI) y gestión de grandes volúmenes de información[cite: 32, 36].
+* 📊 Experto en **Análisis de Datos** (Power BI) y gestión de grandes volúmenes de información
 * ⚙️ Apasionado por la optimización de bases de datos **PostgreSQL** y entornos **Cloud (AWS)**.
 
 ---
